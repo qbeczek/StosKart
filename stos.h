@@ -9,7 +9,7 @@ struct Karta
    int x;
    std::string kolor;
 };
-
+//eleoelo Git tesst
 class Stos
 {
 public:
