@@ -8,6 +8,8 @@ int main(void)
 {
     testStos(4);
     testStosByCin();
+    //testStos(3);
+    testStosByCin2();
     std::cout << "dzialaj" << std::endl;
     return 0;
 }

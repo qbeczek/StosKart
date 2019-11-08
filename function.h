@@ -14,7 +14,7 @@ auto getStosByCin(size_t);
 
 void doSomethingWithPolygonByReference(const Stos&);
 
-
+void testStosByCin2(void);
 void testStos(int );
 void testStosByCin(void);
 

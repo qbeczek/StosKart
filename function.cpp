@@ -84,7 +84,13 @@ void testStos(int x)
     auto karta3 = getStos(x);
     doSomethingWithPolygonByReference(karta3);
 }
-
+void testStosByCin2(void)
+{
+    int x = wybierzIlosc();
+    std::cout << "___TEST2\n" << std::endl;
+    auto karta5 = getStosByCin(x);
+    doSomethingWithPolygonByReference(karta5);
+}
 void testStosByCin(void)
 {
     int x = wybierzIlosc();
